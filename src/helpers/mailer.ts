@@ -22,7 +22,6 @@ export const sendEmail = async({email, emailType, userId}:any) => {
             auth: {
               user: "3fd364695517df",
               pass: "7383d58fd399cf"
-              //TODO: add these credentials to .env file
             }
           });
 
