@@ -20,13 +20,6 @@ A mental-wellness web app built to help people track moods, access mental health
 - **Git ignore**: `.gitignore`
 
   
-## ✅ Features  
-
-- Mood logging / tracking  
-- Access to helpful content (articles, mental health resources)  
-- Possibly real-time or interactive features (via socket server)  
-- Clean, responsive UI  
-
 ## 🌟 Features
 
 - 🧘 **Wellness Resources** – Curated articles, exercises, and text-based guidance to promote mental well-being.  
