@@ -26,3 +26,10 @@ A mental-wellness web app built to help people track moods, access mental health
 - Access to helpful content (articles, mental health resources)  
 - Possibly real-time or interactive features (via socket server)  
 - Clean, responsive UI  
+
+## 🌟 Features
+
+- 🧘 **Wellness Resources** – Curated articles, exercises, and text-based guidance to promote mental well-being.  
+- 💬 **Interactive Support** – Real-time interaction features (via Socket.io) for a more connected experience.    
+- 🎨 **Calming, Accessible UI** – Built with Tailwind CSS for a clean, responsive experience.  
+- ⚙️ **Modular Architecture** – Organized with separate components, models, and scripts for scalability.  
