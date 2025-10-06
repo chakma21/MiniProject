@@ -3,7 +3,7 @@
 A mental-wellness web app built to help people track moods, access mental health resources, and feel a bit more supported.
 
 ## 📌 Live Demo  
-[Visit the live site](https://brighter-beyond.vercel.app) :contentReference[oaicite:1]{index=1}  
+[Visit the live site](https://brighter-beyond.vercel.app)  
 
 ## 🧱 Tech Stack & Structure  
 
